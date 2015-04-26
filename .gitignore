@@ -1,0 +1,14 @@
+data/others/live2d/lib/live2d.min.js
+
+.idea
+
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+.#*
+*~
+.fuse_hidden*
